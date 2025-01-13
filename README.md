@@ -17,8 +17,8 @@ Auto Miner is a simple C# program designed to automate mining actions in Minecra
 - Windows OS (due to user32.dll dependencies).
 - .NET Framework (version 4.5 or later).
 # Hotkeys
-\ (Backslash): Start mining.
-] (Right Bracket): Stop mining.
+- \ (Backslash): Start mining.
+- ] (Right Bracket): Stop mining.
 
 # Disclaimer
 This program is intended for educational purposes only. Automating in-game actions may violate the terms of service of certain games. Use responsibly.
